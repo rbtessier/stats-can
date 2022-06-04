@@ -1,0 +1,8 @@
+# ignores the lfs_eda_jan21-apr22.pbix
+lfs_eda_jan21-apr22.pbix
+# ignores the lfs-eda.pbix file
+.lfs-eda.pbix
+# ignores the lfs-output folder
+lfs-output/
+# ignores the lfs-input folder
+lfs-input/
